@@ -1,0 +1,1 @@
+a:1:{s:4:"bars";a:1:{s:12:"mainsettings";a:10:{s:5:"width";s:4:"100%";s:6:"height";s:4:"auto";s:10:"margin_top";s:1:"0";s:11:"margin_left";s:1:"0";s:12:"margin_right";s:1:"0";s:13:"margin_bottom";s:1:"0";s:14:"animation_time";s:4:"2000";s:7:"maxperc";s:3:"100";s:5:"maxnr";s:3:"100";s:6:"initon";s:6:"scroll";}}}
